@@ -1,5 +1,5 @@
 [global_config]
-  enabled_plugins = InactivityWatch, SearchPlugin, ActivityWatch, LaunchpadCodeURLHandler, OpenAnyFile, APTURLHandler, LaunchpadBugURLHandler
+  enabled_plugins = CustomCommandsMenu, InactivityWatch, GitPlugin, SearchPlugin, ActivityWatch, LaunchpadCodeURLHandler, OpenAnyFile, APTURLHandler, LaunchpadBugURLHandler
   title_transmit_bg_color = "#555753"
   title_transmit_fg_color = "#eeeeec"
 [keybindings]
